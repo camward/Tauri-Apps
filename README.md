@@ -1,2 +1,1 @@
-# Tauri-Apps
-Tauri
+# Tauri Apps
