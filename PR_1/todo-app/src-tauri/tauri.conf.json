@@ -31,5 +31,18 @@
       "icons/icon.icns",
       "icons/icon.ico"
     ]
+  },
+  "allowlist": {
+    "all": false,
+    "shell": {
+      "all": false,
+      "open": true
+    },
+    "http": {
+      "request": true,
+      "scope": [
+        "http://localhost:3000/**"
+      ]
+    }
   }
 }
